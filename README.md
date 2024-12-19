@@ -34,19 +34,23 @@ This project is a JavaScript frontend for the TextRazor API, designed to analyze
    npm install
    ```
 
-3. **Run in Development Mode**
+3. **Provide TextRazor API Key**
+
+   Create a .env file following the .ENV_EXAMPLE
+
+4. **Run in Development Mode**
 
    ```sh
    npm run build-dev
    ```
 
-4. **Build for Production**
+5. **Build for Production**
 
    ```sh
    npm run build-prod
    ```
 
-5. **Start the Application**
+6. **Start the Application**
    ```sh
    npm start
    ```
