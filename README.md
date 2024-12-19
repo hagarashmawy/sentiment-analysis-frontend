@@ -12,6 +12,7 @@ This project is a JavaScript frontend for the TextRazor API, designed to analyze
 - **Service Worker**: Offline support and improved performance with a service worker.
 - **Unit Testing**: Robust unit testing implemented with Jest.
 - **Input Validation**: Secure input handling using regular expressions.
+- **Node**: This project has been built using node version 20.16.0.
 
 ## Installation
 
